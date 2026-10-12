@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#=#",
+    "oEo",
+    "#=#"
+  ],
+  "key": {
+    "#": "minecraft:glass",
+    "=": "minecraft:netherite_ingot",
+    "o": "minecraft:diamond",
+    "E": "minecraft:chorus_flower"
+  },
+  "result": {
+    "id": "magic-mirror-mod-mine:super_magic_mirror",
+    "count": 1
+  }
+}

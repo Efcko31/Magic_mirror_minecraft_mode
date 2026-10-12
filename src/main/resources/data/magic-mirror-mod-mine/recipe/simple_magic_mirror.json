@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GIG",
+    "ZEZ",
+    "GIG"
+  ],
+  "key": {
+    "Z": "minecraft:gold_ingot",
+    "I": "minecraft:iron_ingot",
+    "G": "minecraft:glass",
+    "E": "minecraft:ender_pearl"
+  },
+  "result": {
+    "id": "magic-mirror-mod-mine:simple_magic_mirror",
+    "count": 1
+  }
+}
